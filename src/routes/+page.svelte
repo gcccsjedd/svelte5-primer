@@ -1,4 +1,4 @@
-<main class="text-2xl p-8 bg-slate-950 text-white h-screen">
+<main class="text-2xl p-8 bg-slate-950 text-white min-h-screen">
   <div class="flex flex-col gap-4">
     <b>Creating Svelte Project</b>
     <div class="grid grid-cols-3 gap-4">
