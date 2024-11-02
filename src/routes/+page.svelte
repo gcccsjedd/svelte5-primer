@@ -32,7 +32,7 @@
     <b>Computed State</b>
     <div class="grid grid-cols-3 gap-4">
       <code>$: doubleCount = count * 2;</code>
-      <code class="text-green-500">const doubleCount = count * 2;</code>
+      <code class="text-green-500">const doubleCount = $derived(count * 2);</code>
     </div>
     <hr />
     <b>Click Event</b>
